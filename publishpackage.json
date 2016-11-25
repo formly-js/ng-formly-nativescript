@@ -1,0 +1,36 @@
+{
+  "name": "nativescript-angular-formly",
+  "version": "0.0.0",
+  "description": "NativeScript powered forms for Angular.",
+  "main": "nativescript-angular-formly.js",
+  "typings": "index.d.ts",
+	"nativescript": {
+		"platforms": {
+			"android": "2.4.0",
+      "ios": "2.4.0"
+		}
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanWalker/nativescript-angular-formly.git"
+  },
+  "keywords": [
+    "angular",
+    "ng2",
+    "nativescript",
+    "forms",
+    "json"
+  ],
+  "author": "Nathan Walker <walkerrunpdx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanWalker/nativescript-angular-formly/issues"
+  },
+  "homepage": "https://github.com/NathanWalker/nativescript-angular-formly#readme",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
