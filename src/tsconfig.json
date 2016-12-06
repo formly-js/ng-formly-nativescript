@@ -12,10 +12,10 @@
         ],
         "sourceMap": true,
         "pretty": true,
-        "allowUnreachableCode": false,
+        "allowUnreachableCode": true,
         "allowUnusedLabels": false,
         "noImplicitAny": false,
-        "noImplicitReturns": true,
+        "noImplicitReturns": false,
         "noImplicitUseStrict": false,
         "noFallthroughCasesInSwitch": true,
         "typeRoots": [

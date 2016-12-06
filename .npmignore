@@ -47,9 +47,12 @@ src/*
 src/package.json
 src/app/App_Resources
 src/app/app.*
+src/app/main.*
 src/app/assets
 src/app/package.json
-!src/app/services/*
+!src/app/core/*
+!src/app/ui-bootstrap/*
+!src/app/index.ts
 *.spec.*
 *.e2e.*
 CONTRIBUTING.md
