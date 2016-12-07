@@ -56,6 +56,7 @@ __build__/**
 .vscode
 
 *.d.ts
+!references.d.ts
 *.js
 *.js.map
 !*.e2e.js
