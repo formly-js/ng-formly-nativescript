@@ -1,6 +1,5 @@
 import { NgModule, ModuleWithProviders, ANALYZE_FOR_ENTRY_COMPONENTS } from '@angular/core';
-import { NativeScriptModule } from "nativescript-angular/platform";
-import { NativeScriptFormsModule } from "nativescript-angular/forms";
+import { NativeScriptModule, NativeScriptFormsModule } from "nativescript-angular";
 import { ReactiveFormsModule } from '@angular/forms';
 import { FormlyForm } from './components/formly.form';
 import { FormlyFieldConfig } from './components/formly.field.config';

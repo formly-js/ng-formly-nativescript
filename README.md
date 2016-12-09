@@ -12,6 +12,13 @@ npm i
 
 ### Run demo app
 
+Run this once to get the demo setup:
+
+```
+npm run setup
+```
+
+You can then run the demo with:
 ```
 npm run demo.ios
 
