@@ -19,6 +19,7 @@ npm run setup
 ```
 
 You can then run the demo with:
+
 ```
 npm run demo.ios
 
