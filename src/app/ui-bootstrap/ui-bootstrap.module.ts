@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
-import { NativeScriptModule } from "nativescript-angular/platform";
-import { NativeScriptFormsModule } from "nativescript-angular/forms";
+import { NativeScriptModule, NativeScriptFormsModule } from "nativescript-angular";
 import { ReactiveFormsModule } from '@angular/forms';
 import { FormlyModule } from '../core/core';
 import { BOOTSTRAP_FORMLY_CONFIG, FIELD_TYPE_COMPONENTS } from './ui-bootstrap.config';
